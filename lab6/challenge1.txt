@@ -1,0 +1,33 @@
+List challenge problems completed as part of the lab 1 handin, as well
+as the problem number.
+
+Challenge 1:
+
+We have enhanced the console to allow text and value data (integer, decimal, octal) to be printed in different colors. We embedded graphics functions specified by color value in the string and passed it to console to print according to specified color. We have used different color combinations to print different kind of data with different color. For example, we have used white color for string data and green for hexadecimal values. The color combination described below in Table 1.
+
+The main challenge during this task was to restore the console to its default color after printing our data. We have embedded graphics function to restore console in default color after printing our value. We have also tested our results by sending data to console in different format (Bold, UnderScore, Blink ON, Concealed etc.)
+
+ ______________________________
+|Data Type          |  Color   |
+|___________________|__________|
+|String             |  White   | 
+|                   |          |
+|Char               |  White   |
+|                   |          |
+|unsigned Integer   |  Magenta |
+|                   |          |
+|Signed Integer     |  Red     |
+|                   |          |
+|Hexadecimal        |  Green   |
+|                   |          |
+|Octal              |  Yellow  |
+|                   |          |
+|Address            |  Cyan    |
+|___________________|__________|
+
+Table 1. Color combination for different data types.
+
+Testing of Our Code:
+
+We have used COLOR define in printfmt.c file which sends the graphics function to console. We can test our output by enabling this define. 
+
