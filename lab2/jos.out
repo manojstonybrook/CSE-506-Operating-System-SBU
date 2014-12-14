@@ -1,0 +1,20 @@
+*** Now run 'gdb'.
+***
+6828 decimal is 15254 octal!
+
+e820 MEMORY MAP
+size: 20, address: 0x0000000000000000, length: 0x000000000009fc00, type: 1
+size: 20, address: 0x000000000009fc00, length: 0x0000000000000400, type: 2
+size: 20, address: 0x00000000000f0000, length: 0x0000000000010000, type: 2
+size: 20, address: 0x0000000000100000, length: 0x000000000fefe000, type: 1
+size: 20, address: 0x000000000fffe000, length: 0x0000000000002000, type: 2
+size: 20, address: 0x00000000fffc0000, length: 0x0000000000040000, type: 2
+
+Physical memory: 256M available, base = 636K, extended = 261120K, npages = 65536
+Using only 261120K of the available memory.
+check_boot_pml4e() succeeded!
+check_page_alloc() succeeded!
+check_page() succeeded!
+Welcome to the JOS kernel monitor!
+Type 'help' for a list of commands.
+qemu: terminating on signal 15 from pid 7431
