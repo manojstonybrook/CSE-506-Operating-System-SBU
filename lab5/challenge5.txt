@@ -1,0 +1,15 @@
+List challenge problems completed as part of the lab 5 handin, as well
+as the problem number.  If you worked any previous lab challenges and
+submitted them with this lab, list them here, along with the lab number.
+
+
+Challenge 3: Lab 5
+
+We have supported write access for small files upto 40KB in the current disk based file system. These are the sections which we have implemented.
+
+Implemented dev_filewrite in file.c. and serv_write at disk side. We have also generated the test case (user/manoj.c )which writes in the disk based file system and shows what was written.
+
+Run:
+
+make run-manoj
+

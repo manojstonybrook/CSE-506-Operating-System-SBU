@@ -1,0 +1,39 @@
+List challenge problems completed as part of the lab 2 handin, as well
+as the problem number.  If you worked any previous lab challenges and
+submitted them with this lab, list them here, along with the lab number.
+
+Lab2
+
+Challenge 2:
+
+Part (A). We have implemented monitor command showmapping which takes virtual address space which is currently active in the address space and shows its physical mapping and permissions. For this exercise, we goes through pml4e_walk function to get the pte which gives physical address of the page for this virtual address and its permission. For example, the result are as shown below.
+
+K> showmapping 0x8004000000 0x8004008000
+
+ virtual address        |   physical address   |  permissions 
+
+ 0000008004000000           0000000000000000           PTE_P PTE_W
+
+ 0000008004001000           0000000000001000           PTE_P PTE_W PTE_A
+
+ 0000008004002000           0000000000002000           PTE_P PTE_W PTE_A
+
+ 0000008004003000           0000000000003000           PTE_P PTE_W
+
+ 0000008004004000           0000000000004000           PTE_P PTE_W
+
+ 0000008004005000           0000000000005000           PTE_P PTE_W PTE_A
+
+ 0000008004006000           0000000000006000           PTE_P PTE_W
+
+ 0000008004007000           0000000000007000           PTE_P PTE_W
+
+
+Part (B). We have implemented the monitor command "change_permission" which takes virtual address and permissions from user and change them at current address space. For this exercise, we goes through pml4e_walk function to get the pte and change its permission. For example, the result are as shown below.
+
+K> change_permission 0x8004000000 0x7
+
+ Before Permission 0000000000000003
+ After Permission 0000000000000007
+
+
