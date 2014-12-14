@@ -1,0 +1,35 @@
+*** Now run 'gdb'.
+***
+[1;37m6828 decimal is [1;33m15254[0m[1;37m octal!
+[0m[1;37mentering test_backtrace [1;31m5[0m[1;37m
+[0m[1;37mentering test_backtrace [1;31m4[0m[1;37m
+[0m[1;37mentering test_backtrace [1;31m3[0m[1;37m
+[0m[1;37mentering test_backtrace [1;31m2[0m[1;37m
+[0m[1;37mentering test_backtrace [1;31m1[0m[1;37m
+[0m[1;37mentering test_backtrace [1;31m0[0m[1;37m
+[0m[1;37mStack backtrace: 
+[0m[1;37m rbp [1;32m000000800421af20[0m[1;37m rip [1;32m0000008004201125[0m[1;37m
+[0m[1;37m      [1;37mkern/monitor.c[0m[1;37m:[1;31m80[0m[1;37m: [1;37mmon_backtrace[0m[1;37m+[1;32m000000000000005b[0m[1;37m  args:[1;32m3[0m[1;37m [0m[1;37m[1;32m0000000000000000[0m[1;37m [1;32m0000000000000000[0m[1;37m [1;32m0000000000000000[0m[1;37m
+[0m[1;37m rbp [1;32m000000800421af40[0m[1;37m rip [1;32m00000080042000ba[0m[1;37m
+[0m[1;37m      [1;37mkern/init.c[0m[1;37m:[1;31m26[0m[1;37m: [1;37mtest_backtrace[0m[1;37m+[1;32m0000000000000062[0m[1;37m  args:[1;32m1[0m[1;37m [0m[1;37m[1;32m0000000000000000[0m[1;37m [0m[1;37m
+[0m[1;37m rbp [1;32m000000800421af60[0m[1;37m rip [1;32m000000800420009d[0m[1;37m
+[0m[1;37m      [1;37mkern/init.c[0m[1;37m:[1;31m23[0m[1;37m: [1;37mtest_backtrace[0m[1;37m+[1;32m0000000000000045[0m[1;37m  args:[1;32m1[0m[1;37m [0m[1;37m[1;32m0000000000000001[0m[1;37m [0m[1;37m
+[0m[1;37m rbp [1;32m000000800421af80[0m[1;37m rip [1;32m000000800420009d[0m[1;37m
+[0m[1;37m      [1;37mkern/init.c[0m[1;37m:[1;31m23[0m[1;37m: [1;37mtest_backtrace[0m[1;37m+[1;32m0000000000000045[0m[1;37m  args:[1;32m1[0m[1;37m [0m[1;37m[1;32m0000000000000002[0m[1;37m [0m[1;37m
+[0m[1;37m rbp [1;32m000000800421afa0[0m[1;37m rip [1;32m000000800420009d[0m[1;37m
+[0m[1;37m      [1;37mkern/init.c[0m[1;37m:[1;31m23[0m[1;37m: [1;37mtest_backtrace[0m[1;37m+[1;32m0000000000000045[0m[1;37m  args:[1;32m1[0m[1;37m [0m[1;37m[1;32m0000000000000003[0m[1;37m [0m[1;37m
+[0m[1;37m rbp [1;32m000000800421afc0[0m[1;37m rip [1;32m000000800420009d[0m[1;37m
+[0m[1;37m      [1;37mkern/init.c[0m[1;37m:[1;31m23[0m[1;37m: [1;37mtest_backtrace[0m[1;37m+[1;32m0000000000000045[0m[1;37m  args:[1;32m1[0m[1;37m [0m[1;37m[1;32m0000000000000004[0m[1;37m [0m[1;37m
+[0m[1;37m rbp [1;32m000000800421afe0[0m[1;37m rip [1;32m000000800420009d[0m[1;37m
+[0m[1;37m      [1;37mkern/init.c[0m[1;37m:[1;31m23[0m[1;37m: [1;37mtest_backtrace[0m[1;37m+[1;32m0000000000000045[0m[1;37m  args:[1;32m1[0m[1;37m [0m[1;37m[1;32m0000000000000005[0m[1;37m [0m[1;37m
+[0m[1;37m rbp [1;32m000000800421aff0[0m[1;37m rip [1;32m0000008004200185[0m[1;37m
+[0m[1;37m      [1;37mkern/init.c[0m[1;37m:[1;31m56[0m[1;37m: [1;37mi386_init[0m[1;37m+[1;32m00000000000000a9[0m[1;37m  args:[1;32m0[0m[1;37m
+[0m[1;37mleaving test_backtrace [1;31m0[0m[1;37m
+[0m[1;37mleaving test_backtrace [1;31m1[0m[1;37m
+[0m[1;37mleaving test_backtrace [1;31m2[0m[1;37m
+[0m[1;37mleaving test_backtrace [1;31m3[0m[1;37m
+[0m[1;37mleaving test_backtrace [1;31m4[0m[1;37m
+[0m[1;37mleaving test_backtrace [1;31m5[0m[1;37m
+[0m[1;37mWelcome to the JOS kernel monitor!
+[0m[1;37mType 'help' for a list of commands.
+[0mqemu: terminating on signal 15 from pid 6862
