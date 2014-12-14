@@ -1,0 +1,272 @@
+Sat Dec  6 01:31:46 EST 2014
+
+ FS is initialized
+
+File found
+Normal chunks: 749 Forced chunks: 26 Total chunks: 775
+Duplicate count 11
+ system_dedup_ratio 1.001164
+ finishedSat Dec  6 01:50:51 EST 2014
+
+ FS is initialized
+
+No of blocks duplicated: 0
+No of blocks written: 32
+
+ system_dedup_ratio 1.000000
+ finishedSat Dec  6 01:54:02 EST 2014
+
+ FS is initialized
+
+No of blocks duplicated: 1
+No of blocks written: 2
+
+ system_dedup_ratio 2.000000
+ finished
+ FS is initialized
+
+File foundForceful chunk2 1
+
+Normal chunks: 0 Forced chunks: 1 Total chunks: 1
+Duplicate count 2
+ system_dedup_ratio 4.000000
+ finishedSat Dec  6 01:55:06 EST 2014
+
+ FS is initialized
+
+File foundForceful chunk2 1
+
+Normal chunks: 0 Forced chunks: 1 Total chunks: 1
+Duplicate count 1
+ system_dedup_ratio 2.000000
+ finished
+ FS is initialized
+
+ FS is initialized
+
+No of blocks duplicated: 1
+No of blocks written: 2
+
+ system_dedup_ratio 2.000000
+ finished
+ FS is initialized
+
+No of blocks 2
+ File size 1024 
+ Data written 
+ finishedSat Dec  6 01:58:46 EST 2014
+
+ FS is initialized
+
+No of blocks duplicated: 3
+No of blocks written: 9061
+
+ system_dedup_ratio 1.000331
+ finished
+ FS is initialized
+
+ FS is initialized
+
+File found
+Normal chunks: 749 Forced chunks: 26 Total chunks: 775
+Duplicate count 11
+ system_dedup_ratio 1.001165
+ finished
+ FS is initialized
+
+ File not FoundSat Dec  6 02:00:42 EST 2014
+
+ FS is initialized
+File not found!
+ FS is initialized
+
+No of blocks duplicated: 3
+No of blocks written: 9061
+
+ system_dedup_ratio 1.000331
+ finished
+ FS is initialized
+
+No of blocks 9061
+ File size 4639211 
+ Data written 
+ finished
+ FS is initialized
+
+ FS is initialized
+
+ FS is initialized
+
+No of blocks duplicated: 3
+No of blocks written: 9061
+
+ system_dedup_ratio 1.000331
+ finished
+ FS is initialized
+
+No of blocks 9061
+ File size 4639211 
+ Data written 
+ finishedSat Dec  6 02:07:48 EST 2014
+
+ FS is initialized
+File not found!
+ FS is initialized
+
+No of blocks duplicated: 0
+No of blocks written: 9061
+
+ system_dedup_ratio 1.000000
+ finished
+ FS is initialized
+
+ File not Found
+ FS is initialized
+
+No of blocks 9061
+ File size 4639211 
+ Data written 
+ finished
+ FS is initialized
+
+ FS is initialized
+
+No of blocks duplicated: 1
+No of blocks written: 2
+
+ system_dedup_ratio 2.000000
+ finished
+ FS is initialized
+
+ FS is initialized
+
+No of blocks duplicated: 1
+No of blocks written: 2
+
+ system_dedup_ratio 2.000000
+ finished
+ FS is initialized
+
+ FS is initialized
+File not found!
+ FS is initialized
+
+ FS is initialized
+
+File found
+Normal chunks: 749 Forced chunks: 26 Total chunks: 775
+Duplicate count 7
+ system_dedup_ratio 1.000741
+ finished
+ FS is initialized
+
+No of blocks 9452
+ File size 4639211 
+ Data written 
+ finishedSat Dec  6 02:17:57 EST 2014
+
+ FS is initialized
+
+File foundForceful chunk2 1
+
+Normal chunks: 0 Forced chunks: 1 Total chunks: 1
+Duplicate count 1
+ system_dedup_ratio 2.000000
+ finished
+ FS is initialized
+
+ File not Found
+ FS is initialized
+
+No of blocks 2
+ File size 1024 
+ Data written 
+ finishedSat Dec  6 02:21:20 EST 2014
+
+ FS is initialized
+
+No of blocks duplicated: 1
+No of blocks written: 2
+
+ system_dedup_ratio 2.000000
+ finished
+ FS is initialized
+
+ FS is initialized
+
+File foundForceful chunk2 1
+
+Normal chunks: 0 Forced chunks: 1 Total chunks: 1
+Duplicate count 1
+ system_dedup_ratio 2.000000
+ finished
+ FS is initialized
+
+ FS is initialized
+
+No of blocks duplicated: 0
+No of blocks written: 9062
+
+ system_dedup_ratio 1.000000
+ finished
+ FS is initialized
+
+File found
+Normal chunks: 749 Forced chunks: 26 Total chunks: 775
+Duplicate count 24
+ system_dedup_ratio 1.001297
+ finished
+ FS is initialized
+
+ File not Found
+ FS is initialized
+
+No of blocks duplicated: 1
+No of blocks written: 2
+
+ system_dedup_ratio 1.001351
+ finished
+ FS is initialized
+
+No of blocks 2
+ File size 1024 
+ Data written 
+ finishedSat Dec  6 02:24:34 EST 2014
+Sat Dec  6 02:25:15 EST 2014
+
+ FS is initialized
+
+No of blocks duplicated: 1
+No of blocks written: 2
+
+ system_dedup_ratio 2.000000
+ finished
+ FS is initialized
+
+No of blocks 2
+ File size 1024 
+ Data written 
+ finished
+ FS is initialized
+
+File foundForceful chunk2 1
+
+Normal chunks: 0 Forced chunks: 1 Total chunks: 1
+Duplicate count 2
+ system_dedup_ratio 4.000000
+ finished
+ FS is initialized
+
+File found
+Normal chunks: 749 Forced chunks: 26 Total chunks: 775
+Duplicate count 7
+ system_dedup_ratio 1.001059
+ finishedSat Dec  6 03:06:39 EST 2014
+
+ FS is initialized
+
+No of blocks duplicated: 1
+No of blocks written: 2
+
+ system_dedup_ratio 2.000000
+ finished

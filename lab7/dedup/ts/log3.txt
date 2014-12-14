@@ -1,0 +1,16 @@
+Sat Dec  6 01:29:53 EST 2014
+
+ FS is initialized
+
+File found
+Normal chunks: 749 Forced chunks: 26 Total chunks: 775
+Duplicate count 11
+ system_dedup_ratio 1.001165
+ finished
+ FS is initialized
+
+File found
+Normal chunks: 749 Forced chunks: 26 Total chunks: 775
+Duplicate count 9417
+ system_dedup_ratio 1.993991
+ finished

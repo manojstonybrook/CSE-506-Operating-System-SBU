@@ -1,0 +1,46 @@
+Sat Dec  6 01:11:55 EST 2014
+
+ FS is initialized
+
+ FS is initialized
+
+File found
+Normal chunks: 1507 Forced chunks: 1 Total chunks: 1508
+Duplicate count 12
+ system_dedup_ratio 1.001217
+ finished
+ FS is initialized
+
+File found
+Normal chunks: 1508 Forced chunks: 1 Total chunks: 1509
+Duplicate count 9366
+ system_dedup_ratio 1.904165
+ finished
+ FS is initialized
+
+File found
+Normal chunks: 1508 Forced chunks: 1 Total chunks: 1509
+Duplicate count 9870
+ system_dedup_ratio 2.855229
+ finished
+ FS is initialized
+
+File found
+Normal chunks: 1507 Forced chunks: 1 Total chunks: 1508
+Duplicate count 9872
+ system_dedup_ratio 3.806747
+ finished
+ FS is initialized
+
+File found
+Normal chunks: 1508 Forced chunks: 1 Total chunks: 1509
+Duplicate count 9873
+ system_dedup_ratio 4.758361
+ finished
+ FS is initialized
+
+File found
+Normal chunks: 1508 Forced chunks: 1 Total chunks: 1509
+Duplicate count 9878
+ system_dedup_ratio 5.710458
+ finished

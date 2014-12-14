@@ -1,0 +1,18 @@
+Fri Dec  5 21:52:57 EST 2014
+
+ FS is initialized
+
+ FS is initialized
+
+No of blocks duplicated: 0
+No of blocks written: 9062
+
+ system_dedup_ratio 1.000000
+ finished
+ FS is initialized
+
+No of blocks duplicated: 510
+No of blocks written: 9066
+
+ system_dedup_ratio 1.028948
+ finished
